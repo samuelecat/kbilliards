@@ -1,0 +1,317 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-04-03 17:09+0200\n"
+"PO-Revision-Date: 2002-08-15 23:16+0200\n"
+"Last-Translator: Karel Sybera <karel.sybera@axis.cz>\n"
+"Language-Team: český <cs@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 0.9.6\n"
+
+#: initgamewindow.cpp:32 rc.cpp:107
+#, no-c-format
+msgid "Player One"
+msgstr "Hráč"
+
+#: initgamewindow.cpp:33 rc.cpp:110
+#, no-c-format
+msgid "Player Two"
+msgstr "Hráč"
+
+#: kbilliards.cpp:72
+msgid "<qt>File: _FILENAME_ not found or installation incomplete</qt>"
+msgstr ""
+
+#: kbilliards.cpp:87
+msgid " Ready."
+msgstr "Připraven."
+
+#: kbilliards.cpp:159
+msgid "Sco&res"
+msgstr "Vý&sledky"
+
+#: kbilliards.cpp:171
+msgid "&Preferences"
+msgstr "&Nastavení"
+
+#: kbilliards.cpp:176
+msgid "&Music"
+msgstr ""
+
+#: kbilliards.cpp:183
+msgid "&Effects"
+msgstr ""
+
+#: kbilliards.cpp:190
+msgid "&Save Preferences"
+msgstr "&Uložit nastavení"
+
+#: kbilliards.cpp:194
+msgid "AI: show hidden trajectory"
+msgstr ""
+
+#: kbilliards.cpp:199
+msgid "Settings"
+msgstr "Nastavení"
+
+#: kbilliards.cpp:266
+msgid "Error loading table map"
+msgstr ""
+
+#: kbilliards.cpp:448 kbilliards.cpp:449 kbilliards.cpp:481 kbilliards.cpp:482
+msgid " Computer win "
+msgstr ""
+
+#: kbilliards.cpp:451
+msgid " .. the computer lost the white ball! "
+msgstr ""
+
+#: kbilliards.cpp:452
+msgid " .. the computer lost the game! "
+msgstr ""
+
+#: kbilliards.cpp:456 kbilliards.cpp:460
+msgid " .. you have lost the white ball! "
+msgstr "..ztratil jsi bílou kouli"
+
+#: kbilliards.cpp:457 kbilliards.cpp:461
+msgid " .. you have lost the game! "
+msgstr "..prohrál jsi!"
+
+#: kbilliards.cpp:484 kbilliards.cpp:485 kbilliards.cpp:496 kbilliards.cpp:497
+msgid "  Congratulations you win!  "
+msgstr "..Gratuluji k vítězství!  "
+
+#: kbilliards.cpp:490 kbilliards.cpp:491
+msgid "  Draw!  "
+msgstr ""
+
+#: kbilliards.cpp:652
+msgid " Ready. "
+msgstr " Připraven. "
+
+#: kbilliards.cpp:688
+msgid " Ball number _NUMBALL_ out "
+msgstr " Koule číslo _NUMBALL_ je venku  "
+
+#: kbilliards.cpp:834 scoredisplay.cpp:101
+msgid "Player one"
+msgstr "Hráč"
+
+#: kbilliards.cpp:835 scoredisplay.cpp:102
+msgid "Player two"
+msgstr "Hráč"
+
+#: psettings.cpp:182
+msgid "<qt>Deceleration is negative! </qt>"
+msgstr "<qt>Zpomalení je záporné! </qt>"
+
+#: psettings.cpp:188
+msgid "<qt>Bouncing drag ball is negative! </qt>"
+msgstr "<qt>Odražení o kouli je záporné! </qt>"
+
+#: psettings.cpp:194
+msgid "<qt>Bouncing drag edge is negative! </qt>"
+msgstr "<qt>Odražení o hranu je záporné! </qt>"
+
+#: psettings.cpp:200
+msgid "<qt>Checking delay is out of range! </qt>"
+msgstr "<qt>Kontrola zpoždění je mimo rozsah!</qt>"
+
+#: psettings.cpp:206
+msgid "<qt>Angle factor is out of range! </qt>"
+msgstr "<qt>Koeficient úhlu je mimo rozsah!</qt>"
+
+#: rc.cpp:3
+#, no-c-format
+msgid "C&ustom"
+msgstr ""
+
+#: rc.cpp:6
+#, no-c-format
+msgid "Physical Settings"
+msgstr "Fyzikální nastavení"
+
+#: rc.cpp:9
+#, no-c-format
+msgid "Upd&ate"
+msgstr "Aktualizovat"
+
+#: rc.cpp:12
+#, no-c-format
+msgid "Clo&se"
+msgstr ""
+
+#: rc.cpp:18
+#, no-c-format
+msgid "Default is 0.035"
+msgstr "Výchozí je 0.035"
+
+#: rc.cpp:21
+#, no-c-format
+msgid "Default is 0.020"
+msgstr "Výchozí je 0.020"
+
+#: rc.cpp:24
+#, no-c-format
+msgid "Default is 0.060"
+msgstr "Výchozí je 0.060"
+
+#: rc.cpp:27
+#, no-c-format
+msgid "Deceleration constant"
+msgstr "Konstanta zpomalení"
+
+#: rc.cpp:30
+#, no-c-format
+msgid "Bouncing drag ball"
+msgstr "Zpomalení o kouli"
+
+#: rc.cpp:33
+#, no-c-format
+msgid "Bouncing drag edge"
+msgstr "Zpomalení o hranu"
+
+#: rc.cpp:36
+#, no-c-format
+msgid "Precision angle factor"
+msgstr "Koeficient přesnosti úhlu"
+
+#: rc.cpp:39 rc.cpp:57
+#, no-c-format
+msgid "up is a better precision when you choose a direction throw for the ball"
+msgstr "větší číslo znamená přesnější úhel při určování směru koule"
+
+#: rc.cpp:42
+#, no-c-format
+msgid "Default is central position"
+msgstr "Výchozí je střední poloha"
+
+#: rc.cpp:45 rc.cpp:51
+#, no-c-format
+msgid ""
+"Left values is for faster processor, this is an important quality factor of "
+"virtual simulation"
+msgstr ""
+"Hodnoty vlevo jsou pro rychlejší procesor, mají vliv na kvalitu virtuální "
+"simulace"
+
+#: rc.cpp:48
+#, no-c-format
+msgid "Checking delay"
+msgstr "Kontrola zpoždění"
+
+#: rc.cpp:54
+#, no-c-format
+msgid "should be divisible by 2, default is 180"
+msgstr "mělo by být dělitelné 2, výchozí je 180"
+
+#: rc.cpp:60 rc.cpp:63
+#, no-c-format
+msgid "Scores"
+msgstr "Výsledky"
+
+#: rc.cpp:86
+#, no-c-format
+msgid "Reset &scores"
+msgstr ""
+
+#: rc.cpp:89
+#, no-c-format
+msgid "Alt+S"
+msgstr ""
+
+#: rc.cpp:92 rc.cpp:101
+#, no-c-format
+msgid "O&K"
+msgstr ""
+
+#: rc.cpp:95
+#, no-c-format
+msgid "Alt+K"
+msgstr ""
+
+#: rc.cpp:98
+#, no-c-format
+msgid "Game Settings"
+msgstr "Nastavení"
+
+#: rc.cpp:104
+#, no-c-format
+msgid "Player's name"
+msgstr "Hráč"
+
+#: rc.cpp:114
+#, no-c-format
+msgid "T&wo Players"
+msgstr ""
+
+#: rc.cpp:117
+#, no-c-format
+msgid "Alt+W"
+msgstr ""
+
+#: rc.cpp:120
+#, no-c-format
+msgid "vs Computer"
+msgstr ""
+
+#: rc.cpp:123
+#, no-c-format
+msgid "Alt+V"
+msgstr ""
+
+#: rc.cpp:126
+#, no-c-format
+msgid "Game type"
+msgstr ""
+
+#: rc.cpp:129
+#, no-c-format
+msgid "Training mode"
+msgstr ""
+
+#: rc.cpp:132
+#, no-c-format
+msgid "Alt+A"
+msgstr ""
+
+#: rc.cpp:135
+#, no-c-format
+msgid "In this mode you can drag any ball and place it wherever you want"
+msgstr ""
+
+#: rc.cpp:138
+#, no-c-format
+msgid "Best shooter"
+msgstr ""
+
+#: rc.cpp:141
+#, no-c-format
+msgid "Alt+H"
+msgstr ""
+
+#: rc.cpp:144
+#, no-c-format
+msgid "In this mode you should perform best consequential shots"
+msgstr ""
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Karel Sybera"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "karel.sybera@axis.cz"
+

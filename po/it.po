@@ -1,0 +1,319 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-04-03 17:09+0200\n"
+"PO-Revision-Date: 2002-07-20 12:55+0200\n"
+"Last-Translator: Samuele Catuzzi <samuele.c@hostnotfound.it>\n"
+"Language-Team: italiano\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 0.9.6\n"
+
+#: initgamewindow.cpp:32 rc.cpp:107
+#, no-c-format
+msgid "Player One"
+msgstr "Giocatore 1"
+
+#: initgamewindow.cpp:33 rc.cpp:110
+#, no-c-format
+msgid "Player Two"
+msgstr "Giocatore 2"
+
+#: kbilliards.cpp:72
+msgid "<qt>File: _FILENAME_ not found or installation incomplete</qt>"
+msgstr "<qt>File: _FILENAME_ non trovato o installazione incompleta</qt>"
+
+#: kbilliards.cpp:87
+msgid " Ready."
+msgstr " Pronto "
+
+#: kbilliards.cpp:159
+msgid "Sco&res"
+msgstr "Punt&eggio"
+
+#: kbilliards.cpp:171
+msgid "&Preferences"
+msgstr "&Preferenze"
+
+#: kbilliards.cpp:176
+msgid "&Music"
+msgstr "&Musica"
+
+#: kbilliards.cpp:183
+msgid "&Effects"
+msgstr "&Effetti"
+
+#: kbilliards.cpp:190
+msgid "&Save Preferences"
+msgstr "&Salva preferenze"
+
+#: kbilliards.cpp:194
+msgid "AI: show hidden trajectory"
+msgstr "AI: mostra traiettorie nascoste"
+
+#: kbilliards.cpp:199
+msgid "Settings"
+msgstr "Preferenze"
+
+#: kbilliards.cpp:266
+msgid "Error loading table map"
+msgstr "Errore caricando la mappa del tavolo"
+
+#: kbilliards.cpp:448 kbilliards.cpp:449 kbilliards.cpp:481 kbilliards.cpp:482
+msgid " Computer win "
+msgstr " Ha vinto il computer "
+
+#: kbilliards.cpp:451
+msgid " .. the computer lost the white ball! "
+msgstr ".. il computer ha perso la palla bianca!!!"
+
+#: kbilliards.cpp:452
+msgid " .. the computer lost the game! "
+msgstr " .. il computer ha perso la partita! "
+
+#: kbilliards.cpp:456 kbilliards.cpp:460
+msgid " .. you have lost the white ball! "
+msgstr ".. hai perso la palla bianca!!!"
+
+#: kbilliards.cpp:457 kbilliards.cpp:461
+msgid " .. you have lost the game! "
+msgstr " .. hai perso la partita! "
+
+#: kbilliards.cpp:484 kbilliards.cpp:485 kbilliards.cpp:496 kbilliards.cpp:497
+msgid "  Congratulations you win!  "
+msgstr "  Congratulazioni hai vinto!  "
+
+#: kbilliards.cpp:490 kbilliards.cpp:491
+msgid "  Draw!  "
+msgstr "  Pari!  "
+
+#: kbilliards.cpp:652
+msgid " Ready. "
+msgstr " Pronto "
+
+#: kbilliards.cpp:688
+msgid " Ball number _NUMBALL_ out "
+msgstr " Palla numero _NUMBALL_ in buca "
+
+#: kbilliards.cpp:834 scoredisplay.cpp:101
+msgid "Player one"
+msgstr "Giocatore 1"
+
+#: kbilliards.cpp:835 scoredisplay.cpp:102
+msgid "Player two"
+msgstr "Giocatore 2"
+
+#: psettings.cpp:182
+msgid "<qt>Deceleration is negative! </qt>"
+msgstr "<qt>La decellerazione e' negativa!</qt>"
+
+#: psettings.cpp:188
+msgid "<qt>Bouncing drag ball is negative! </qt>"
+msgstr "<qt>La resitenza al rimbalzo con la palla e' negativa!</qt>"
+
+#: psettings.cpp:194
+msgid "<qt>Bouncing drag edge is negative! </qt>"
+msgstr "<qt>La resitenza al rimbalzo con il bordo e' negativa!</qt>"
+
+#: psettings.cpp:200
+msgid "<qt>Checking delay is out of range! </qt>"
+msgstr "<qt>Il ritardo nei controlli e' fuori scala!</qt>"
+
+#: psettings.cpp:206
+msgid "<qt>Angle factor is out of range! </qt>"
+msgstr "<qt>Il fattore di precisione dell'angolo e' fuori scala!</qt>"
+
+#: rc.cpp:3
+#, no-c-format
+msgid "C&ustom"
+msgstr ""
+
+#: rc.cpp:6
+#, no-c-format
+msgid "Physical Settings"
+msgstr "Settaggi di fisica"
+
+#: rc.cpp:9
+#, no-c-format
+msgid "Upd&ate"
+msgstr "Aggiorna"
+
+#: rc.cpp:12
+#, no-c-format
+msgid "Clo&se"
+msgstr ""
+
+#: rc.cpp:18
+#, no-c-format
+msgid "Default is 0.035"
+msgstr "Il default e' 0.035"
+
+#: rc.cpp:21
+#, no-c-format
+msgid "Default is 0.020"
+msgstr "Il default e' 0.020"
+
+#: rc.cpp:24
+#, no-c-format
+msgid "Default is 0.060"
+msgstr "Il default e' 0.060"
+
+#: rc.cpp:27
+#, no-c-format
+msgid "Deceleration constant"
+msgstr "Costante di decellerazione"
+
+#: rc.cpp:30
+#, no-c-format
+msgid "Bouncing drag ball"
+msgstr "Resitenza al rimbalzo con la palla"
+
+#: rc.cpp:33
+#, no-c-format
+msgid "Bouncing drag edge"
+msgstr "Resistenza al rimbalzo sul bordo"
+
+#: rc.cpp:36
+#, no-c-format
+msgid "Precision angle factor"
+msgstr "Fattore di precisione dell'angolo"
+
+#: rc.cpp:39 rc.cpp:57
+#, no-c-format
+msgid "up is a better precision when you choose a direction throw for the ball"
+msgstr ""
+"piu alto migliora la precisione quando devi scegliere la direzione del tiro"
+
+#: rc.cpp:42
+#, no-c-format
+msgid "Default is central position"
+msgstr "Il default e' la posizione centrale"
+
+#: rc.cpp:45 rc.cpp:51
+#, no-c-format
+msgid ""
+"Left values is for faster processor, this is an important quality factor of "
+"virtual simulation"
+msgstr ""
+"I valori piu a sinistra sono per processori veloci, questo e' un importante "
+"fattore di qualità"
+
+#: rc.cpp:48
+#, no-c-format
+msgid "Checking delay"
+msgstr "Ritardo nei controlli"
+
+#: rc.cpp:54
+#, no-c-format
+msgid "should be divisible by 2, default is 180"
+msgstr "dovrebbe essere divisibile per 2. il default e' 180"
+
+#: rc.cpp:60 rc.cpp:63
+#, no-c-format
+msgid "Scores"
+msgstr "Punteggi"
+
+#: rc.cpp:86
+#, no-c-format
+msgid "Reset &scores"
+msgstr "Cancella punteggi"
+
+#: rc.cpp:89
+#, no-c-format
+msgid "Alt+S"
+msgstr ""
+
+#: rc.cpp:92 rc.cpp:101
+#, no-c-format
+msgid "O&K"
+msgstr ""
+
+#: rc.cpp:95
+#, no-c-format
+msgid "Alt+K"
+msgstr ""
+
+#: rc.cpp:98
+#, no-c-format
+msgid "Game Settings"
+msgstr "Settaggi del gioco"
+
+#: rc.cpp:104
+#, no-c-format
+msgid "Player's name"
+msgstr "Nome giocatore"
+
+#: rc.cpp:114
+#, no-c-format
+msgid "T&wo Players"
+msgstr "Due giocatori"
+
+#: rc.cpp:117
+#, no-c-format
+msgid "Alt+W"
+msgstr ""
+
+#: rc.cpp:120
+#, no-c-format
+msgid "vs Computer"
+msgstr ""
+
+#: rc.cpp:123
+#, no-c-format
+msgid "Alt+V"
+msgstr ""
+
+#: rc.cpp:126
+#, no-c-format
+msgid "Game type"
+msgstr "Tipo di gioco"
+
+#: rc.cpp:129
+#, no-c-format
+msgid "Training mode"
+msgstr "Allenamento"
+
+#: rc.cpp:132
+#, no-c-format
+msgid "Alt+A"
+msgstr ""
+
+#: rc.cpp:135
+#, no-c-format
+msgid "In this mode you can drag any ball and place it wherever you want"
+msgstr "In questa modalità puoi spostare ogni palla e posizionarla dove vuoi"
+
+#: rc.cpp:138
+#, no-c-format
+msgid "Best shooter"
+msgstr "Migliore sequenza"
+
+#: rc.cpp:141
+#, no-c-format
+msgid "Alt+H"
+msgstr ""
+
+#: rc.cpp:144
+#, no-c-format
+msgid "In this mode you should perform best consequential shots"
+msgstr ""
+"In questa modalità devi cercare collezionare le migliori sequenza di buche"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Samuele Catuzzi"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "samuele_catuzzi@hostnotfound.it"
+

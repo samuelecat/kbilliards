@@ -1,0 +1,317 @@
+# translation of ru.po to Русский
+# Copyright (C) 2005 Free Software Foundation, Inc.
+# Алексей Кузнецов <kouznetsov@phtf.stu.neva.ru>, 2005.
+# Alexey Kouznetsov <kouznetsov@phtf.stu.neva.ru>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ru\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-04-03 17:09+0200\n"
+"PO-Revision-Date: 2005-03-22 17:48+0300\n"
+"Last-Translator: Alexey Kouznetsov <kouznetsov@phtf.stu.neva.ru>\n"
+"Language-Team: Русский <ru@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.3\n"
+
+#: initgamewindow.cpp:32 rc.cpp:107
+#, no-c-format
+msgid "Player One"
+msgstr "Первый игрок"
+
+#: initgamewindow.cpp:33 rc.cpp:110
+#, no-c-format
+msgid "Player Two"
+msgstr "Второй игрок"
+
+#: kbilliards.cpp:72
+msgid "<qt>File: _FILENAME_ not found or installation incomplete</qt>"
+msgstr "<qt>Файл _FILENAME_ не найден; возможно, установка не полна<qt>"
+
+#: kbilliards.cpp:87
+msgid " Ready."
+msgstr " Готово."
+
+#: kbilliards.cpp:159
+msgid "Sco&res"
+msgstr "&Рекорды"
+
+#: kbilliards.cpp:171
+msgid "&Preferences"
+msgstr "&Настройки"
+
+#: kbilliards.cpp:176
+msgid "&Music"
+msgstr "&Музыка"
+
+#: kbilliards.cpp:183
+msgid "&Effects"
+msgstr "&Звуки"
+
+#: kbilliards.cpp:190
+msgid "&Save Preferences"
+msgstr "&Сохранить настройки"
+
+#: kbilliards.cpp:194
+msgid "AI: show hidden trajectory"
+msgstr "КИ: показывать предполагаемую траекторию"
+
+#: kbilliards.cpp:199
+msgid "Settings"
+msgstr "Настройки"
+
+#: kbilliards.cpp:266
+msgid "Error loading table map"
+msgstr ""
+
+#: kbilliards.cpp:448 kbilliards.cpp:449 kbilliards.cpp:481 kbilliards.cpp:482
+msgid " Computer win "
+msgstr " Этот железный болван выиграл "
+
+#: kbilliards.cpp:451
+msgid " .. the computer lost the white ball! "
+msgstr " .. компьютер потерял белый шар "
+
+#: kbilliards.cpp:452
+msgid " .. the computer lost the game! "
+msgstr ", компьютер проиграл! "
+
+#: kbilliards.cpp:456 kbilliards.cpp:460
+msgid " .. you have lost the white ball! "
+msgstr ", вы потеряли белый шар "
+
+#: kbilliards.cpp:457 kbilliards.cpp:461
+msgid " .. you have lost the game! "
+msgstr ", вы проиграли!"
+
+#: kbilliards.cpp:484 kbilliards.cpp:485 kbilliards.cpp:496 kbilliards.cpp:497
+msgid "  Congratulations you win!  "
+msgstr "  Поздравляем с победой!"
+
+#: kbilliards.cpp:490 kbilliards.cpp:491
+msgid "  Draw!  "
+msgstr ""
+
+#: kbilliards.cpp:652
+msgid " Ready. "
+msgstr " Готово. "
+
+#: kbilliards.cpp:688
+msgid " Ball number _NUMBALL_ out "
+msgstr " Забит _NUMBALL_-й шар "
+
+#: kbilliards.cpp:834 scoredisplay.cpp:101
+msgid "Player one"
+msgstr "Первый игрок"
+
+#: kbilliards.cpp:835 scoredisplay.cpp:102
+msgid "Player two"
+msgstr "Второй игрок"
+
+#: psettings.cpp:182
+msgid "<qt>Deceleration is negative! </qt>"
+msgstr "<qt>Трение не может быть отрицательным! </qt>"
+
+#: psettings.cpp:188
+msgid "<qt>Bouncing drag ball is negative! </qt>"
+msgstr "<qt>Потери при соударении шаров не могут быть отрицательными! </qt>"
+
+#: psettings.cpp:194
+msgid "<qt>Bouncing drag edge is negative! </qt>"
+msgstr "<qt>Потери при ударе о бортик не могут быть отрицательными! </qt>"
+
+#: psettings.cpp:200
+msgid "<qt>Checking delay is out of range! </qt>"
+msgstr "<qt>Недопустимая частота обновления!</qt>"
+
+#: psettings.cpp:206
+msgid "<qt>Angle factor is out of range! </qt>"
+msgstr "<qt>Недопустимая точность прицела!</qt>"
+
+#: rc.cpp:3
+#, no-c-format
+msgid "C&ustom"
+msgstr "&Настроить"
+
+#: rc.cpp:6
+#, no-c-format
+msgid "Physical Settings"
+msgstr "Настройка физики"
+
+#: rc.cpp:9
+#, no-c-format
+msgid "Upd&ate"
+msgstr "Обновить"
+
+#: rc.cpp:12
+#, no-c-format
+msgid "Clo&se"
+msgstr ""
+
+#: rc.cpp:18
+#, no-c-format
+msgid "Default is 0.035"
+msgstr "По умолчанию 0,035"
+
+#: rc.cpp:21
+#, no-c-format
+msgid "Default is 0.020"
+msgstr "По умолчанию 0,020"
+
+#: rc.cpp:24
+#, no-c-format
+msgid "Default is 0.060"
+msgstr "По умолчанию 0,060"
+
+#: rc.cpp:27
+#, no-c-format
+msgid "Deceleration constant"
+msgstr "Коэффициент трения"
+
+#: rc.cpp:30
+#, no-c-format
+msgid "Bouncing drag ball"
+msgstr "Потеря энергии при соударении шаров"
+
+#: rc.cpp:33
+#, no-c-format
+msgid "Bouncing drag edge"
+msgstr "Потеря энергии при ударе о бортик"
+
+#: rc.cpp:36
+#, no-c-format
+msgid "Precision angle factor"
+msgstr "Точность прицеливания"
+
+#: rc.cpp:39 rc.cpp:57
+#, no-c-format
+msgid "up is a better precision when you choose a direction throw for the ball"
+msgstr "Чем больше значение, тем точнее можно выбрать направление удара"
+
+#: rc.cpp:42
+#, no-c-format
+msgid "Default is central position"
+msgstr "Значение по умолчанию - центр"
+
+#: rc.cpp:45 rc.cpp:51
+#, no-c-format
+msgid ""
+"Left values is for faster processor, this is an important quality factor of "
+"virtual simulation"
+msgstr ""
+"Переместите движок влево, если у вас медленный процессор; это сильно влияет "
+"на качество игры"
+
+#: rc.cpp:48
+#, no-c-format
+msgid "Checking delay"
+msgstr "Частота обновления"
+
+#: rc.cpp:54
+#, no-c-format
+msgid "should be divisible by 2, default is 180"
+msgstr "шагов на полуокружность, по умолчанию 180"
+
+#: rc.cpp:60 rc.cpp:63
+#, no-c-format
+msgid "Scores"
+msgstr "Очки"
+
+#: rc.cpp:86
+#, no-c-format
+msgid "Reset &scores"
+msgstr ""
+
+#: rc.cpp:89
+#, no-c-format
+msgid "Alt+S"
+msgstr ""
+
+#: rc.cpp:92 rc.cpp:101
+#, no-c-format
+msgid "O&K"
+msgstr ""
+
+#: rc.cpp:95
+#, no-c-format
+msgid "Alt+K"
+msgstr ""
+
+#: rc.cpp:98
+#, no-c-format
+msgid "Game Settings"
+msgstr "Настройки"
+
+#: rc.cpp:104
+#, no-c-format
+msgid "Player's name"
+msgstr "Игроки"
+
+#: rc.cpp:114
+#, no-c-format
+msgid "T&wo Players"
+msgstr "Два игрока"
+
+#: rc.cpp:117
+#, no-c-format
+msgid "Alt+W"
+msgstr ""
+
+#: rc.cpp:120
+#, no-c-format
+msgid "vs Computer"
+msgstr "против компьютера"
+
+#: rc.cpp:123
+#, no-c-format
+msgid "Alt+V"
+msgstr ""
+
+#: rc.cpp:126
+#, no-c-format
+msgid "Game type"
+msgstr "Режим игры"
+
+#: rc.cpp:129
+#, no-c-format
+msgid "Training mode"
+msgstr "Обучение"
+
+#: rc.cpp:132
+#, no-c-format
+msgid "Alt+A"
+msgstr ""
+
+#: rc.cpp:135
+#, no-c-format
+msgid "In this mode you can drag any ball and place it wherever you want"
+msgstr "В этом режиме вы можете передвигать любой шар"
+
+#: rc.cpp:138
+#, no-c-format
+msgid "Best shooter"
+msgstr "На вылет"
+
+#: rc.cpp:141
+#, no-c-format
+msgid "Alt+H"
+msgstr ""
+
+#: rc.cpp:144
+#, no-c-format
+msgid "In this mode you should perform best consequential shots"
+msgstr "Нужно забить подряд как можно больше шаров"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Алексей Кузнецов"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "kouznetsov@phtf.stu.neva.ru"
