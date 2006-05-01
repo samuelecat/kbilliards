@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Kbilliards
+Exec=kbilliards %i %m -caption "%c"
+Icon=kbilliards
+Type=Application
+DocPath=kbilliards/kbilliards.html
+Comment=Funny billiards simulator
+Comment[it]=Simpatico gioco del biliardo
+X-KDE-StartupNotify=true
+X-DCOP-ServiceType=Multi
+Categories=Game
+
