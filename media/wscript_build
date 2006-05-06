@@ -1,0 +1,72 @@
+#! /usr/bin/env python
+# encoding: utf-8
+# Samuele Catuzzi
+
+dir_balls = '''
+ball01b.png
+ball01.png
+ball02b.png
+ball02.png
+ball03b.png
+ball03.png
+ball04b.png
+ball04.png
+ball05b.png
+ball05.png
+ball06b.png
+ball06.png
+ball07b.png
+ball07.png
+ball08b.png
+ball08.png
+ball09b.png
+ball09.png
+ball10b.png
+ball10.png
+ball11b.png
+ball11.png
+ball12b.png
+ball12.png
+ball13b.png
+ball13.png
+ball14b.png
+ball14.png
+ball15b.png
+ball15.png
+ball_shadowb.png
+ball_shadow.png
+whiteball.png
+'''
+
+dir_other = '''
+ball.png
+leftarrow.png
+rightarrow.png
+'''
+
+dir_sound = '''
+applause.wav
+ballinhole.wav
+gameover.wav
+hitball.wav
+hitedge.wav
+music01.ogg
+shot.wav
+'''
+
+dir_maps = '''
+kbilliards2004.kbm
+'''
+
+for filename in dir_balls.split():
+        install_files('KDE_DATA', 'kbilliards/balls/', 'balls/'+filename)
+
+for filename in dir_other.split():
+        install_files('KDE_DATA', 'kbilliards/', 'other/'+filename)
+
+for filename in dir_sound.split():
+        install_files('KDE_DATA', 'kbilliards/sound/', 'sound/'+filename)
+
+for filename in dir_maps.split():
+        install_files('KDE_DATA', 'kbilliards/maps/', 'maps/'+filename)
+
