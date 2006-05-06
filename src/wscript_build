@@ -1,0 +1,17 @@
+#! /usr/bin/env python
+
+from Object import createObj
+obj = bld.createObj('kde', 'program')
+obj.target='kbilliards'
+obj.find_sources_in_dirs('.')
+obj.includes='.'
+obj.uselib='QT KDECORE KIO KDEPRINT KARTS'
+
+install_files('KDE_MENU', 'Games', 'kbilliards.desktop')
+
+for size in ['16', '32', '48']:
+       	install_as( 'KDE_ICONS', '/hicolor/%sx%s/apps/kbilliards.png' % (size, size), 'hi%s-app-kbilliards.png' % size)
+
+for size in ['16', '32']:
+       	install_as( 'KDE_ICONS', '/lowcolor/%sx%s/apps/kbilliards.png' % (size, size), 'hi%s-app-kbilliards.png' % size)
+
