@@ -1,0 +1,37 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<!DOCTYPE KDevPrjSession>
+<KDevPrjSession>
+ <DocsAndViews NumberOfDocuments="2" >
+  <Doc0 NumberOfViews="1" URL="file:///home/samy/kbilliards/src/bouncesegmentob.h" >
+   <View0 Type="Source" />
+  </Doc0>
+  <Doc1 NumberOfViews="1" URL="file:///home/samy/kbilliards/src/bouncesegmentob.cpp" >
+   <View0 line="239" Type="Source" />
+  </Doc1>
+ </DocsAndViews>
+ <pluginList>
+  <kdevdebugger>
+   <breakpointList/>
+  </kdevdebugger>
+  <kdevbookmarks>
+   <bookmarks>
+    <bookmark url="/home/samy/kbilliards/src/vmath.cpp" >
+     <mark line="232" />
+    </bookmark>
+    <bookmark url="/home/samy/kbilliards/src/billmove.cpp" >
+     <mark line="650" />
+     <mark line="484" />
+    </bookmark>
+    <bookmark url="/home/samy/kbilliards/src/kbilliards.cpp" >
+     <mark line="922" />
+    </bookmark>
+   </bookmarks>
+  </kdevbookmarks>
+  <kdevvalgrind>
+   <executable path="" params="" />
+   <valgrind path="" params="" />
+   <calltree path="" params="" />
+   <kcachegrind path="" />
+  </kdevvalgrind>
+ </pluginList>
+</KDevPrjSession>
