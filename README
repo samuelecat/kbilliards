@@ -1,0 +1,16 @@
+
+Two notes:
+
+
+1) REMEMBER, THE THIS SOFTWARE IS UNDER "GPL" LICENSE, READ THE FILE "COPYING"
+
+
+2) You can compile kbilliards also with "waf" in three steps:
+
+./waf.py configure
+
+./waf.py build
+
+./waf.py install
+
+
