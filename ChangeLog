@@ -1,0 +1,72 @@
+ver 0.8.7b
+ - fixed one annoying bug
+
+ver 0.8.7
+ - one bug fixed
+ - minor graphic improvements
+ - initial support for "waf" building system
+
+ver 0.8.6
+ - changed music file format from mp3 to ogg
+ - added more intuitive mouse icons
+ - ability to play with mouse buttons, thanks to Keegan Carruthers-Smith
+ - little bugfix
+
+ver 0.8.5
+ - added french translation "fr" thanks to Alexandre Svetoslavsky 
+ - updated "ru" translation thanks to Alexey Kouznetsov 
+ - internal improvements, added customizable billiard map system
+
+ver 0.8.1
+ - two bugs fixed
+ - added reset button and some graphical stuff on scores dialog
+
+ver 0.8
+ - AI player added, thanks to Fabio Chiarello for is math support
+ - internal improvements: rewrote and simplify edgeobject
+ - updated "it" translation
+ - fixed strange behaviors on .po translations file derived from kdevelop's mistakes..
+ - code improvements
+
+ver 0.7.1
+ - BugFixes
+ 
+ver 0.7 
+ - partial rewrote of game to introduce new features
+ - Two Player Mode 
+ - Game type selection
+ - fixed 3 very insidius bugs one from "double -0 +0" other from multithreads on Qt
+
+ver 0.6.1
+ - compilation fix
+ - better performance
+
+ver 0.6 
+ - several BugFixes
+ - graphic improvements
+ - added logo kbilliards on carpet thanks to Danny Allen <dannya40uk@yahoo.co.uk>
+ - added russian translation "ru" thanks to Алексей Кузнецов <kouznetsov@phtf.stu.neva.ru> 
+
+ver 0.5 
+ - Now based on vector math
+ - project ported into kdevelop3 form
+
+ver 0.4b 
+ - A compilation problem with gcc3.2 has been fixed
+ - "cs" translation has been added from Karel Sybera <karel.sybera@axis.cz>
+
+ver 0.4 
+ - several BugFixes
+ - sound effects and music added
+ - "it" translation 
+ - better playability and some other improvements
+
+ver 0.3  
+ - physical engine rewritten
+ - better graphics and some effects, porting to KDE3
+
+ver 0.2
+ - devel version
+
+ver 0.1
+ - first release! :)
