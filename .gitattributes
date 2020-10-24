@@ -1,5 +1,6 @@
 admin/* linguist-vendored
 autom4te.cache/* linguist-vendored
+acinclude.m4/* linguist-vendored
 waf.py linguist-vendored
 wafadmin/* linguist-vendored
 wscript linguist-vendored
