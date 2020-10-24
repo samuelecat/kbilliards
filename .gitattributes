@@ -1,0 +1,5 @@
+admin/* linguist-vendored
+autom4te.cache/* linguist-vendored
+waf.py linguist-vendored
+wafadmin/* linguist-vendored
+wscript linguist-vendored
